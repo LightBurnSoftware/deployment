@@ -1,0 +1,6 @@
+{
+    "win64":  { "ver": "0.9.09", "file": "https://drive.google.com/uc?export=download&id=1DAxkjftxaOlL4IW6_DH1EAq6BCqXWNge", "date": 1575943212 },
+    "win32":  { "ver": "0.9.09", "file": "https://drive.google.com/uc?export=download&id=1VQUxGZwu8OVpiYtjFJaCi0DpSezYZAW-", "date": 1575943212 },
+    "mac":    { "ver": "0.9.09", "file": "https://drive.google.com/uc?export=download&id=1JcoR09FTFZQtmfsmhFqZnvvTG_S8dGQM", "date": 1575943212 },
+	"unix64": { "ver": "0.9.09", "file": "https://drive.google.com/uc?export=download&id=1Loyk4En8lbVur0N1Ek4bOTESNOR3IHdc", "date": 1575943212 }
+}

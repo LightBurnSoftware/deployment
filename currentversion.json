@@ -5,7 +5,7 @@
         "file": "https://github.com/LightBurnSoftware/deployment/releases/download/0.9.15/LightBurn-32Bit-v0.9.15.exe"
     }, 
     "win64": {
-        "date": 1595610169, 
+        "date": 1595530272, 
         "ver": "0.9.15", 
         "file": "https://github.com/LightBurnSoftware/deployment/releases/download/0.9.15/LightBurn-v0.9.15.exe"
     }, 

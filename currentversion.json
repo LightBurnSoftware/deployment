@@ -14,14 +14,14 @@
         "ver": "0.9.16", 
         "file": "https://github.com/LightBurnSoftware/deployment/releases/download/0.9.16/LightBurn.V0.9.16.dmg"
     }, 
-    "unix64_zip": {
-        "date": 1596152417, 
-        "ver": "0.9.16", 
-        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/0.9.16/LightBurn-Linux64-v0.9.16.7z"
-    }, 
     "unix64": {
         "date": 1596152417, 
         "ver": "0.9.16", 
         "file": "https://github.com/LightBurnSoftware/deployment/releases/download/0.9.16/LightBurn-Linux64-v0.9.16.run"
+    }, 
+    "unix64_zip": {
+        "date": 1596152417, 
+        "ver": "0.9.16", 
+        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/0.9.16/LightBurn-Linux64-v0.9.16.7z"
     }
 }

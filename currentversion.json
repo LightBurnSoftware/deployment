@@ -1,27 +1,27 @@
 {
     "win32": {
-        "date": 1596152417, 
-        "ver": "0.9.16", 
-        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/0.9.16/LightBurn-32Bit-v0.9.16.exe"
+        "date": 1604602229, 
+        "ver": "0.9.17", 
+        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/0.9.17/LightBurn-32Bit-v0.9.17.exe"
     }, 
     "win64": {
-        "date": 1596152417, 
-        "ver": "0.9.16", 
-        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/0.9.16/LightBurn-v0.9.16.exe"
+        "date": 1604602229, 
+        "ver": "0.9.17", 
+        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/0.9.17/LightBurn-v0.9.17.exe"
     }, 
     "mac": {
         "date": 1604602229, 
         "ver": "0.9.17", 
         "file": "https://github.com/LightBurnSoftware/deployment/releases/download/0.9.17/LightBurn.V0.9.17.dmg"
     }, 
-    "unix64": {
-        "date": 1604602229, 
-        "ver": "0.9.17", 
-        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/0.9.17/LightBurn-Linux64-v0.9.17.run"
-    }, 
     "unix64_zip": {
         "date": 1604602229, 
         "ver": "0.9.17", 
         "file": "https://github.com/LightBurnSoftware/deployment/releases/download/0.9.17/LightBurn-Linux64-v0.9.17.7z"
+    }, 
+    "unix64": {
+        "date": 1604602229, 
+        "ver": "0.9.17", 
+        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/0.9.17/LightBurn-Linux64-v0.9.17.run"
     }
 }

@@ -1,32 +1,32 @@
 {
-    "mac": {
-        "ver": "0.9.21",
-        "date": 1616087799,
-        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/0.9.21/LightBurn.V0.9.21.dmg"
-    },
     "macnew": {
-        "ver": "0.9.21",
-        "date": 1616087799,
+        "date": 1616087799, 
+        "ver": "0.9.21", 
         "file": "https://github.com/LightBurnSoftware/deployment/releases/download/0.9.21/LightBurn-Sur.V0.9.21.dmg"
-    },
+    }, 
     "win64": {
-        "ver": "0.9.21",
-        "date": 1616087799,
+        "date": 1616087799, 
+        "ver": "0.9.21", 
         "file": "https://github.com/LightBurnSoftware/deployment/releases/download/0.9.21/LightBurn-v0.9.21.exe"
-    },
+    }, 
     "unix64": {
-        "ver": "0.9.21",
-        "date": 1616273603,
+        "date": 1616273603, 
+        "ver": "0.9.21", 
         "file": "https://github.com/LightBurnSoftware/deployment/releases/download/0.9.21/LightBurn-Linux64-v0.9.21.run"
-    },
+    }, 
     "win32": {
-        "ver": "0.9.21",
-        "date": 1616087799,
+        "date": 1616087799, 
+        "ver": "0.9.21", 
         "file": "https://github.com/LightBurnSoftware/deployment/releases/download/0.9.21/LightBurn-32Bit-v0.9.21.exe"
-    },
+    }, 
+    "mac": {
+        "date": 1616273603, 
+        "ver": "0.9.21", 
+        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/0.9.21/LightBurn.V0.9.21.dmg"
+    }, 
     "unix64_zip": {
-        "ver": "0.9.21",
-        "date": 1616273603,
+        "date": 1616273603, 
+        "ver": "0.9.21", 
         "file": "https://github.com/LightBurnSoftware/deployment/releases/download/0.9.21/LightBurn-Linux64-v0.9.21.7z"
     }
 }

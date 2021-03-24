@@ -20,9 +20,9 @@
         "file": "https://github.com/LightBurnSoftware/deployment/releases/download/0.9.22/LightBurn-32Bit-v0.9.22.exe"
     }, 
     "mac": {
-        "date": 1616273603, 
-        "ver": "0.9.21", 
-        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/0.9.21/LightBurn.V0.9.21.dmg"
+        "date": 1616537885, 
+        "ver": "0.9.22", 
+        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/0.9.22/LightBurn.V0.9.22.dmg"
     }, 
     "unix64_zip": {
         "date": 1616273603, 

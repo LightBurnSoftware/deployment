@@ -1,32 +1,32 @@
 {
-    "win32": {
-        "date": 1617814963,
-        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/0.9.23/LightBurn-32Bit-v0.9.23.exe",
-        "ver": "0.9.23"
-    },
-    "unix64_zip": {
-        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/0.9.23/LightBurn-Linux64-v0.9.23.7z",
-        "date": 1617986721,
-        "ver": "0.9.23"
-    },
     "macnew": {
-        "date": 1617814963,
-        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/0.9.23/LightBurn-Sur.V0.9.23.dmg",
-        "ver": "0.9.23"
-    },
-    "unix64": {
-        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/0.9.23/LightBurn-Linux64-v0.9.23.run",
-        "date": 1617986721,
-        "ver": "0.9.23"
-    },
-    "mac": {
-        "date": 1617814963,
-        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/0.9.23/LightBurn.V0.9.23.dmg",
-        "ver": "0.9.23"
-    },
+        "date": 1617814963, 
+        "ver": "0.9.23", 
+        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/0.9.23/LightBurn-Sur.V0.9.23.dmg"
+    }, 
     "win64": {
-        "date": 1617814963,
-        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/0.9.23/LightBurn-v0.9.23.exe",
-        "ver": "0.9.23"
+        "date": 1617814963, 
+        "ver": "0.9.23", 
+        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/0.9.23/LightBurn-v0.9.23.exe"
+    }, 
+    "unix64": {
+        "date": 1617986721, 
+        "ver": "0.9.23", 
+        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/0.9.23/LightBurn-Linux64-v0.9.23.run"
+    }, 
+    "win32": {
+        "date": 1617814963, 
+        "ver": "0.9.23", 
+        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/0.9.23/LightBurn-32Bit-v0.9.23.exe"
+    }, 
+    "mac": {
+        "date": 1617986721, 
+        "ver": "0.9.23", 
+        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/0.9.23/LightBurn.V0.9.23.dmg"
+    }, 
+    "unix64_zip": {
+        "date": 1617986721, 
+        "ver": "0.9.23", 
+        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/0.9.23/LightBurn-Linux64-v0.9.23.7z"
     }
 }

@@ -6,8 +6,8 @@
     }, 
     "win64": {
         "date": 1633207202, 
-        "ver": "1.0.04", 
-        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.0.04/LightBurn-v1.0.04.exe"
+        "ver": "1.0.05", 
+        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.0.05/LightBurn-v1.0.05.exe"
     }, 
     "unix64": {
         "date": 1633207202, 
@@ -16,8 +16,8 @@
     }, 
     "win32": {
         "date": 1633207202, 
-        "ver": "1.0.04", 
-        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.0.04/LightBurn-32Bit-v1.0.04.exe"
+        "ver": "1.0.05", 
+        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.0.05/LightBurn-32Bit-v1.0.05.exe"
     }, 
     "mac": {
         "date": 1633207202, 

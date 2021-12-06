@@ -1,32 +1,32 @@
 {
-    "mac": {
-        "ver": "1.0.04",
-        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.0.04/LightBurn.V1.0.04.dmg",
-        "date": 1633207202
-    },
     "macnew": {
-        "ver": "0.9.23",
-        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/0.9.23/LightBurn-Sur.V0.9.23.dmg",
-        "date": 1617986721
-    },
+        "date": 1617986721, 
+        "ver": "0.9.23", 
+        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/0.9.23/LightBurn-Sur.V0.9.23.dmg"
+    }, 
     "win64": {
-        "ver": "1.0.05",
-        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.0.05/LightBurn-v1.0.05.exe",
-        "date": 1633207202
-    },
-    "win32": {
-        "ver": "1.0.05",
-        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.0.05/LightBurn-32Bit-v1.0.05.exe",
-        "date": 1633207202
-    },
+        "date": 1633207202, 
+        "ver": "1.0.05", 
+        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.0.05/LightBurn-v1.0.05.exe"
+    }, 
     "unix64": {
-        "ver": "1.0.05",
-        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.0.05/LightBurn-Linux64-v1.0.05.run",
-        "date": 1633207202
-    },
+        "date": 1633207202, 
+        "ver": "1.0.05", 
+        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.0.05/LightBurn-Linux64-v1.0.05.run"
+    }, 
+    "win32": {
+        "date": 1633207202, 
+        "ver": "1.0.05", 
+        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.0.05/LightBurn-32Bit-v1.0.05.exe"
+    }, 
+    "mac": {
+        "date": 1633207202, 
+        "ver": "1.0.05", 
+        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.0.05/LightBurn.V1.0.05.dmg"
+    }, 
     "unix64_zip": {
-        "ver": "1.0.05",
-        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.0.05/LightBurn-Linux64-v1.0.05.7z",
-        "date": 1633207202
+        "date": 1633207202, 
+        "ver": "1.0.05", 
+        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.0.05/LightBurn-Linux64-v1.0.05.7z"
     }
 }

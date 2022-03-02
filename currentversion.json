@@ -5,9 +5,9 @@
         "file": "https://github.com/LightBurnSoftware/deployment/releases/download/0.9.23/LightBurn-Sur.V0.9.23.dmg"
     }, 
     "win64": {
-        "date": 1633207202, 
-        "ver": "1.0.06", 
-        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.0.06/LightBurn-v1.0.06.exe"
+        "date": 1646264758, 
+        "ver": "1.1.00", 
+        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.1.00/LightBurn-v1.1.00.exe"
     }, 
     "unix64": {
         "date": 1646264758, 
@@ -15,9 +15,9 @@
         "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.1.00/LightBurn-Linux64-v1.1.00.run"
     }, 
     "win32": {
-        "date": 1633207202, 
-        "ver": "1.0.06", 
-        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.0.06/LightBurn-32Bit-v1.0.06.exe"
+        "date": 1646264758, 
+        "ver": "1.1.00", 
+        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.1.00/LightBurn-32Bit-v1.1.00.exe"
     }, 
     "mac": {
         "date": 1646264758, 

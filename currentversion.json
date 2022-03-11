@@ -1,32 +1,32 @@
 {
     "macnew": {
-        "date": 1617986721, 
-        "ver": "0.9.23", 
-        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/0.9.23/LightBurn-Sur.V0.9.23.dmg"
-    }, 
+        "date": 1617986721,
+        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/0.9.23/LightBurn-Sur.V0.9.23.dmg",
+        "ver": "0.9.23"
+    },
     "win64": {
-        "date": 1646854197, 
-        "ver": "1.1.02", 
-        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.1.02/LightBurn-v1.1.02.exe"
-    }, 
-    "unix64": {
-        "date": 1646854197, 
-        "ver": "1.1.02", 
-        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.1.02/LightBurn-Linux64-v1.1.02.run"
-    }, 
+        "date": 1646854197,
+        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.1.02/LightBurn-v1.1.02.exe",
+        "ver": "1.1.02"
+    },
     "win32": {
-        "date": 1646854197, 
-        "ver": "1.1.02", 
-        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.1.02/LightBurn-32Bit-v1.1.02.exe"
-    }, 
+        "date": 1646854197,
+        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.1.02/LightBurn-32Bit-v1.1.02.exe",
+        "ver": "1.1.02"
+    },
     "mac": {
-        "date": 1646854197, 
-        "ver": "1.1.02", 
-        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.1.02/LightBurn.V1.1.02.dmg"
-    }, 
+        "date": 1646854197,
+        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.1.02/LightBurn.V1.1.02.dmg",
+        "ver": "1.1.02"
+    },
     "unix64_zip": {
-        "date": 1646854197, 
-        "ver": "1.1.02", 
-        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.1.02/LightBurn-Linux64-v1.1.02.7z"
+        "date": 1647020293,
+        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.1.03/LightBurn-Linux64-v1.1.03.7z",
+        "ver": "1.1.03"
+    },
+    "unix64": {
+        "date": 1647020293,
+        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.1.03/LightBurn-Linux64-v1.1.03.run",
+        "ver": "1.1.03"
     }
 }

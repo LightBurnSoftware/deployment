@@ -22,7 +22,7 @@
     "mac": {
         "ver": "1.4.01",
         "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.4.01/LightBurn.V1.4.01.dmg",
-        "date": 1690991200
+        "date": 1691003331
     },
     "unix64_zip": {
         "ver": "1.4.01",

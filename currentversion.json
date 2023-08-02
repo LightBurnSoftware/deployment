@@ -7,7 +7,7 @@
     "win64": {
         "ver": "1.4.01",
         "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.4.01/LightBurn-v1.4.01.exe",
-        "date": 1690991200
+        "date": 1691003331
     },
     "unix64": {
         "ver": "1.4.01",
@@ -17,7 +17,7 @@
     "win32": {
         "ver": "1.4.01",
         "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.4.01/LightBurn-32Bit-v1.4.01.exe",
-        "date": 1690991200
+        "date": 1691003331
     },
     "mac": {
         "ver": "1.4.01",

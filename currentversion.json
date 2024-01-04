@@ -28,5 +28,10 @@
         "ver": "1.4.05",
         "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.4.05/LightBurn-Linux64-v1.4.05.7z",
         "date": 1691003331
+    },
+    "unix64_app": {
+        "ver": "1.4.05",
+        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.4.05/LightBurn-Linux64-v1.4.05.AppImage",
+        "date": 1691003331
     }
 }

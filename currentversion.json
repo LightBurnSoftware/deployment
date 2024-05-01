@@ -5,14 +5,14 @@
         "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.2.00/LightBurn-Sur.V1.2.00.dmg"
     },
     "win64": {
-        "ver": "1.5.06",
-        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.5.06/LightBurn-v1.5.06.exe",
-        "date": 1710918006
+        "ver": "1.6.00",
+        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.6.00/LightBurn-v1.6.00.exe",
+        "date": 1714458912
     },
     "unix64": {
-        "ver": "1.5.06",
-        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.5.06/LightBurn-Linux64-v1.5.06.run",
-        "date": 1710918006
+        "ver": "1.6.00",
+        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.6.00/LightBurn-Linux64-v1.6.00.run",
+        "date": 1714458912
     },
     "win32": {
         "ver": "1.5.06",
@@ -20,18 +20,18 @@
         "date": 1710918006
     },
     "mac": {
-        "ver": "1.5.06",
-        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.5.06/LightBurn.V1.5.06.dmg",
-        "date": 1710918006
+        "ver": "1.6.00",
+        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.6.00/LightBurn.V1.6.00.dmg",
+        "date": 1714458912
     },
     "unix64_zip": {
-        "ver": "1.5.06",
-        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.5.06/LightBurn-Linux64-v1.5.06.7z",
-        "date": 1710918006
+        "ver": "1.6.00",
+        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.6.00/LightBurn-Linux64-v1.6.00.7z",
+        "date": 1714458912
     },
     "unix64_app": {
-        "ver": "1.5.06",
-        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.5.06/LightBurn-Linux64-v1.5.06.AppImage",
-        "date": 1710918006
+        "ver": "1.6.00",
+        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.6.00/LightBurn-Linux64-v1.6.00.AppImage",
+        "date": 1714458912
     }
 }

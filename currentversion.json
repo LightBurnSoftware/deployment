@@ -10,8 +10,8 @@
         "date": 1714458912
     },
     "unix64": {
-        "ver": "1.6.03",
-        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.6.03/LightBurn-Linux64-v1.6.03.run",
+        "ver": "1.6.04",
+        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.6.04/LightBurn-Linux64-v1.6.04.run",
         "date": 1714458912
     },
     "win32": {
@@ -25,13 +25,13 @@
         "date": 1714458912
     },
     "unix64_zip": {
-        "ver": "1.6.03",
-        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.6.03/LightBurn-Linux64-v1.6.03.7z",
+        "ver": "1.6.04",
+        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.6.04/LightBurn-Linux64-v1.6.04.7z",
         "date": 1714458912
     },
     "unix64_app": {
-        "ver": "1.6.03",
-        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.6.03/LightBurn-Linux64-v1.6.03.AppImage",
+        "ver": "1.6.04",
+        "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.6.04/LightBurn-Linux64-v1.6.04.AppImage",
         "date": 1714458912
     }
 }

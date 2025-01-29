@@ -11,27 +11,27 @@
     },
     "win64": {
         "date": 1727186633,
-        "ver": "1.7.04",
-        "file": "https://release.lightburnsoftware.com/LightBurn/Release/LightBurn-v1.7.04/LightBurn-v1.7.04.exe"
+        "ver": "1.7.05",
+        "file": "https://release.lightburnsoftware.com/LightBurn/Release/LightBurn-v1.7.05/LightBurn-v1.7.05.exe"
     },
     "unix64_app": {
         "date": 1727186633,
-        "ver": "1.7.04",
-        "file": "https://release.lightburnsoftware.com/LightBurn/Release/LightBurn-v1.7.04/LightBurn-Linux64-v1.7.04.AppImage"
+        "ver": "1.7.05",
+        "file": "https://release.lightburnsoftware.com/LightBurn/Release/LightBurn-v1.7.05/LightBurn-Linux64-v1.7.05.AppImage"
     },
     "unix64_zip": {
         "date": 1727186633,
-        "ver": "1.7.04",
-        "file": "https://release.lightburnsoftware.com/LightBurn/Release/LightBurn-v1.7.04/LightBurn-Linux64-v1.7.04.7z"
+        "ver": "1.7.05",
+        "file": "https://release.lightburnsoftware.com/LightBurn/Release/LightBurn-v1.7.05/LightBurn-Linux64-v1.7.05.7z"
     },
     "unix64": {
         "date": 1727186633,
-        "ver": "1.7.04",
-        "file": "https://release.lightburnsoftware.com/LightBurn/Release/LightBurn-v1.7.04/LightBurn-Linux64-v1.7.04.run"
+        "ver": "1.7.05",
+        "file": "https://release.lightburnsoftware.com/LightBurn/Release/LightBurn-v1.7.05/LightBurn-Linux64-v1.7.05.run"
     },
     "mac": {
         "date": 1727186633,
-        "ver": "1.7.04",
-        "file": "https://release.lightburnsoftware.com/LightBurn/Release/LightBurn-v1.7.04/LightBurn.V1.7.04.dmg"
+        "ver": "1.7.05",
+        "file": "https://release.lightburnsoftware.com/LightBurn/Release/LightBurn-v1.7.05/LightBurn.V1.7.05.dmg"
     }
 }
